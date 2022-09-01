@@ -1,0 +1,12 @@
+Project3:
+total 0
+-rw-r--r--. 1 myid   0 Jul 16 21:11 rec17576
+drwxr-xr-x. 2 myid 170 Jul 16 20:58 src
+
+Project3/src:
+total 16
+-rw-r--r--. 1 myid 1973 Jul 16 20:58 Editable.java
+-rw-r--r--. 1 myid  717 Jul 14 21:13 EditableTextLine.java
+-rw-r--r--. 1 myid 1548 Jul 16 20:50 TextLineIndexOutOfBoundsException.java
+-rw-r--r--. 1 myid 2874 Jul 16 20:35 TextLine.java
+/home/myid/sl39085/Project3:/home/myid/csci-1302a
